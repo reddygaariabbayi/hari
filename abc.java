@@ -1,6 +1,6 @@
 class abc
 {
-public static void main(string args[])
+public static void main(string Sargs[])
 {
 int a=10;
 int b=27;
